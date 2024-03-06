@@ -1,1 +1,1 @@
-Print("olá mundo!")
+print ("olá mundo!")
